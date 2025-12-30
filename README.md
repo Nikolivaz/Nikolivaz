@@ -17,7 +17,6 @@ I'm using Python, Power BI, SQL to get and visualize data insights 👨🏽‍�
 ### 🔭 I’m working on
 
 - Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
 
 ### 🌱 I’m learning
 
