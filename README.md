@@ -6,11 +6,10 @@ I'm using Python, Power BI, SQL to get and visualize data insights 👨🏽‍�
 
 <div display="flex">
   <img src="https://img.shields.io/badge/-Python-008B8B?logo=python&logoColor=FFD700&style=flat"/>
-  <img
-  src="https://img.shields.io/badge/-SQL-002080?logo=PostgreSQL&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-SQL-002080?logo=PostgreSQL&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Python-008B8B?logo=python&logoColor=FFD700&style=flat"/>
   <img src="https://img.shields.io/badge/-Python-008B8B?logo=python&logoColor=FFD700&style=flat"/>
-< img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
