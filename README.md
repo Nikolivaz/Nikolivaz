@@ -6,10 +6,9 @@ I'm using Python, Power BI, SQL to get and visualize data insights 👨🏽‍�
 
 <div display="flex">
   <img src="https://img.shields.io/badge/-Python-008B8B?logo=python&logoColor=FFD700&style=flat"/>
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-</div>
+  <img src="https://img.shields.io/badge/-SQL-000080?logo=sql&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/-Python-008B8B?logo=python&logoColor=FFD700&style=flat"/>
+  <img src="https://img.shields.io/badge/-Python-008B8B?logo=python&logoColor=FFD700&style=flat"/>
 
 ### 🔭 I’m working on
 
