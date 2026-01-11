@@ -29,5 +29,3 @@ I'm using Python, Power BI, SQL to get and visualize data insights 👨🏽‍�
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
-
-### ⚡ Fun fact
